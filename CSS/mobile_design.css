@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 90%;
+    margin: auto;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 15px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.content {
+    padding: 60px;
+}
+
+h1 {
+    font-size: 35px;
+    color: hsl(0, 0%, 100%);
+}
+
+.insights {
+    color: hsl(277, 64%, 61%);
+}
+
+.content p {
+    margin: 25px 0px;
+    line-height: 1.4;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.achieves {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+}
+
+.achieves div {
+    color: hsl(0, 0%, 100%);
+}
+
+.achieves div:nth-child(2) {
+    padding: 0px 60px;
+}
+
+.achieves p {
+    position: relative;
+    bottom: 25px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.image1 img {
+    display: none;
+}
+
+.image2 {
+    background-color: hsl(277, 64%, 61%);
+}
+
+.image2 img {
+    width: 100%;
+    mix-blend-mode: multiply;
+    opacity: 0.7;
+}
+
+.font1 {
+    font-family: 'Inter', sans-serif;
+}
+
+.font2 {
+    font-family: 'Lexend Deca', sans-serif;
+}
