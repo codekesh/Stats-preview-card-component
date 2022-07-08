@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click for solution URL here](https://github.com/codekesh/Stats-preview-card-component.git)
+- Live Site URL: [Click for live site URL here](https://codekesh.github.io/Stats-preview-card-component/)
 
 ## My process
 
